@@ -1,0 +1,6 @@
+{
+	"name" : "stick",
+	"uniqueNumber" : 1,
+	"texture" : "stick",
+	"maxStackSize" : 100
+}

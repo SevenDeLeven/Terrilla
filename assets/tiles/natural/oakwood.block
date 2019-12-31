@@ -1,0 +1,8 @@
+{
+	"name" : "oakwood",
+	"sprite" : "tra:tile_oakwood",
+	"uniqueNumber" : 5,
+	"hardness" : 65.1,
+	"solid" : false,
+	"type" : "wood"
+}

@@ -1,0 +1,8 @@
+{
+	"name" : "grass",
+	"sprite" : "tra:tile_grass",
+	"uniqueNumber": 2,
+	"hardness" : 90.1,
+	"solid" : true,
+	"type" : "soil",
+}

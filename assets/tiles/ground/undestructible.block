@@ -1,0 +1,8 @@
+{
+	"name" : "undestructible",
+	"sprite" : "tra:tile_stone",
+	"uniqueNumber" : 4,
+	"hardness" : -1,
+	"solid" : true,
+	"type" : "solid"
+}
